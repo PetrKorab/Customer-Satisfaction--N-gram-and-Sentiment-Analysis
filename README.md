@@ -6,7 +6,6 @@ Article available from [here](https://towardsdatascience.com/customer-satisfacti
 <p float="left">
 
   <img src="customer_satisfaction_medium.png" width="1200" margin_bottom = "50" />
-  </br>
   <img src="sentiment-fig.png" width="400" />
   <img src="arabica-fig" width="400" />
 </p>
