@@ -7,14 +7,14 @@ Article available from [here](https://towardsdatascience.com/customer-satisfacti
 
 <p float="left">
 
-  <img src="customer_satisfaction_medium.png" width="600" />
+  <img src="customer_satisfaction_medium.png" width="600">
   </br>
 </p>
 
 
 <p float="left">
   </br>
-  <img src="sentiment-fig.png" width="400" />
+  <img src="sentiment-fig.png" width="300" />
   </br>
-  <img src="arabica-fig.png" width="400" />
+  <img src="arabica-fig.png" width="300" />
 </p>
