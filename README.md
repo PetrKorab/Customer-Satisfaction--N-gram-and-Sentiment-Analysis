@@ -4,7 +4,7 @@ Article available from [here](https://towardsdatascience.com/customer-satisfacti
 
 
 <p float="left">
-<img src="customer_satisfaction_medium.png" width="400">
+<img src="customer_satisfaction_medium.png" width="600", align="center">
  
   </br>
   <img src="sentiment-fig.png" width="400" />
