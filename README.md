@@ -7,5 +7,5 @@ Article available from [here](https://towardsdatascience.com/customer-satisfacti
 
   <img src="customer_satisfaction_medium.png" width="1200" margin_bottom = "50" />
   <img src="sentiment-fig.png" width="400" />
-  <img src="arabica-fig" width="400" />
+  <img src="arabica-fig2" width="400" />
 </p>
