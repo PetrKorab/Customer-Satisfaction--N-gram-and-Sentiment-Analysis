@@ -5,7 +5,7 @@ Article available from [here](https://towardsdatascience.com/customer-satisfacti
 
 <p float="left">
   </br>
-  <img src="sentiment-fig.png" width="450" />
-  <img src="arabica-fig.png" width="450" />
+  <img src="sentiment-fig.png" width="400" />
+  <img src="arabica-fig.png" width="400" />
 </p>
 
