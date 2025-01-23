@@ -3,9 +3,9 @@ Python code for **Customer Satisfaction Measurement with N-gram and Sentiment An
 Article available from [here](https://towardsdatascience.com/customer-satisfaction-measurement-with-n-gram-and-sentiment-analysis-547e291c13a6?sk=62f9decb619744c96c49735ff09653c3).
 
 
-<p float="left">
+<p float="center">
   </br>
-  <img src="sentiment-fig.png" width="400" />
+  <img src="sentiment-fig.png" width="350" />
    </br>
-  <img src="arabica-fig.png" width="400" />
+  <img src="arabica-fig.png" width="350" />
 </p>
