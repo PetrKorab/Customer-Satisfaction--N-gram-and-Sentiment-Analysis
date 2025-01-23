@@ -4,9 +4,8 @@ Article available from [here](https://towardsdatascience.com/customer-satisfacti
 
 
 <p float="left">
-</br>
-<img src="customer_satisfaction_medium.png" width="400", align="center">
- 
+  </br>
+  <img src="customer_satisfaction_medium.png" width="400", align="center"/> 
   </br>
   <img src="sentiment-fig.png" width="400" />
    </br>
