@@ -9,6 +9,11 @@ Article available from [here](https://towardsdatascience.com/customer-satisfacti
 
   <img src="customer_satisfaction_medium.png" width="600" />
   </br>
+</p>
+
+
+<p float="left">
+  </br>
   <img src="sentiment-fig.png" width="400" />
   </br>
   <img src="arabica-fig.png" width="400" />
