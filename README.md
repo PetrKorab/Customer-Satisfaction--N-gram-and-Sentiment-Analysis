@@ -7,8 +7,9 @@ Article available from [here](https://towardsdatascience.com/customer-satisfacti
 
 <p float="left">
 
-  <img src="flowchart_horizontal_highres.png" width="1200" />
+  <img src="customer_satisfaction_medium.png" width="600" />
   </br>
   <img src="sentiment-fig.png" width="400" />
+  </br>
   <img src="arabica-fig.png" width="400" />
 </p>
